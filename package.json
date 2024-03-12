@@ -19,7 +19,10 @@
     "minor": "npm version minor && npm publish",
     "major": "npm version major && npm publish"
   },
-  "repository": "https://github.com/baboon-king/grays",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baboon-king/grays.git"
+  },
   "bugs": "https://github.com/baboon-king/grays/issues",
   "homepage": "https://github.com/baboon-king/grays#readme",
   "keywords": [
