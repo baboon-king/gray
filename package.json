@@ -1,6 +1,6 @@
 {
   "name": "grays",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packageManager": "pnpm@8.15.4",
   "type": "module",
   "main": "./esm/index.js",
