@@ -1,4 +1,4 @@
-import "@unocss/reset/antfu.css";
+import "@unocss/reset/tailwind-compat.css";
 import { grays } from "./src/index";
 
 const { cancel, apply } = grays("html", 90);

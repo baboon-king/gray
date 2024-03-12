@@ -37,7 +37,7 @@ const exRun = (selector: string, fn: (elem: HTMLElement) => void) => {
 export const grays = (
   selector: string = "html",
   grayscale: number = 99,
-  options: GraysOptions = {}
+  options: GraysOptions = {},
 ) => {
   const { className = "grays", expire, immediate = true } = options;
 

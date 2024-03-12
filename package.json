@@ -34,12 +34,12 @@
   ],
   "author": "BaboonKing",
   "dependencies": {
-    "@unocss/reset": "0.47.3"
+    "@unocss/reset": "0.58.5"
   },
   "devDependencies": {
-    "prettier": "2.7.1",
-    "typescript": "4.8.4",
-    "vite": "3.2.4"
+    "prettier": "3.2.5",
+    "typescript": "5.4.2",
+    "vite": "5.1.6"
   },
   "license": "MIT",
   "publishConfig": {
